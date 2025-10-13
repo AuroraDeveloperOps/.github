@@ -1,6 +1,6 @@
 # Aurora Foundation Projects
 
-Welcome! This is the central hub for exploring **Aurora Foundation's** open source and SaaS projects.
+Welcome! This is the central hub for exploring **Aurora Foundation's** open source and SaaS projects, maintained by **AuroraDeveloperOps**.
 
 ---
 
@@ -9,7 +9,7 @@ Welcome! This is the central hub for exploring **Aurora Foundation's** open sour
 - Aurora AI — *Coming Soon*  
 - Aurora Cloud — *Coming Soon*  
 - Aurora Agent SDK — *Coming Soon*  
-- [Obsidian CLI](https://github.com/AuroraFoundation/obsidian-cli) — Our CLI assistant tool  
+- [Obsidian CLI](https://github.com/AuroraDeveloperOps/obsidian-cli) — Our CLI assistant tool  
 
 ---
 
@@ -26,4 +26,4 @@ If you’re new here, start with **Obsidian CLI** to explore our workflow tools 
 
 ---
 
-© 2025 Aurora Foundation
+© 2025 Aurora Foundation / Aurora DevOps

@@ -1,28 +1,29 @@
-# Aurora Foundation
+# Aurora Foundation Projects
 
-### *Intelligence. Design. Clarity.*
-
-Aurora Foundation is an independent research and development organization creating open‑source technology and beautifully engineered digital experiences.  
-We design with purpose — combining art, intelligence, and minimalism to build products that simply work.
+Welcome! This is the central hub for exploring **Aurora Foundation's** open source and SaaS projects.
 
 ---
 
-### 🪞 Philosophy
-Technology should feel human — intuitive, refined, and meaningful.  
-Our goal is to craft tools that empower creators, developers, and businesses through elegance and performance.
+## Explore Our Repositories
+
+- Aurora AI — *Coming Soon*  
+- Aurora Cloud — *Coming Soon*  
+- Aurora Agent SDK — *Coming Soon*  
+- [Obsidian CLI](https://github.com/AuroraFoundation/obsidian-cli) — Our CLI assistant tool  
 
 ---
 
-### 🌐 What We Do
-- **Open Source Projects** — frameworks, agents, and developer tools built with precision  
-- **SaaS Platforms** — seamless, cloud‑based solutions for modern teams  
-- **Design & Infrastructure** — minimal systems inspired by clarity and control  
+## How to Navigate
+
+1. Each project will have its own repository with setup instructions and contribution guidelines.  
+2. Check back soon as we roll out the remaining repos!  
 
 ---
 
-### 🧭 Vision
-To redefine the intersection of design and intelligence — creating technology that feels as natural as it is powerful.
+### Need Help?
+
+If you’re new here, start with **Obsidian CLI** to explore our workflow tools while other projects are being released.
 
 ---
 
-© 2025 Aurora Foundation. All rights reserved.
+© 2025 Aurora Foundation

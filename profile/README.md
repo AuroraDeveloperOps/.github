@@ -1,23 +1,23 @@
 # Aurora Foundation
 
-Welcome! This is the central hub for exploring **Aurora Foundation's** open source and SaaS projects, maintained by **AuroraDeveloperOps**.
+Welcome! This is the central hub for exploring **Aurora Foundation's** open source and SaaS projects, maintained by **Aurora Labs**.
 
 ---
 
 ## Explore Our Repositories
 
-- [The Shine Mobile](https://theshinemobile.com) - Our Atlanta based automotive detailing
-- Aurora Chat — *Coming Soon*  
-- Aurora Drive — *Coming Soon*  
-- Aurora Quartz SDK — *Coming Soon*  
-- [Obsidian CLI](https://github.com/AuroraDeveloperOps/obsidian-cli) — Our CLI assistant tool  
+- [The Shine Mobile](https://theshinemobile.com) - Our Atlanta based automotive detailing complete web app with landing, booking, metrics & business dashboard with agentic AI. Powered by Anthropic's Claude family.
+- Aurora Chat — *Coming Soon*
+- Aurora Drive — *Coming Soon*
+- Aurora Quartz SDK — *Coming Soon*
+- [Obsidian CLI](https://github.com/AuroraDeveloperOps/obsidian-cli) — Our CLI assistant tool
 
 ---
 
 ## How to Navigate
 
 1. Each project will have its own repository with setup instructions and contribution guidelines.  
-2. Check back soon as we roll out the remaining repos!  
+2. Check back soon as we roll out the remaining repos!
 
 ---
 

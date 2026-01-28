@@ -1,30 +1,52 @@
-# Aurora Foundation
+# Aurora Labs
 
-Welcome! This is the central hub for exploring **Aurora Foundation's** open source and SaaS projects, maintained by **Aurora Labs**.
+Aurora Labs, part of Aurora Foundation, builds production SaaS systems and select open-source tools across AI, developer platforms, and vertical applications.
 
----
+This organization serves as the central hub for product development, infrastructure, and collaboration across the Aurora ecosystem.  
 
-## Explore Our Repositories
-
-- [The Shine Mobile](https://theshinemobile.com) - Our Atlanta based automotive detailing complete web app with landing, booking, metrics & business dashboard with agentic AI. Powered by Anthropic's Claude family.
-- Aurora Chat — *Coming Soon*
-- Aurora Drive — *Coming Soon*
-- Aurora Quartz SDK — *Coming Soon*
-- [Obsidian CLI](https://github.com/AuroraDeveloperOps/obsidian-cli) — Our CLI assistant tool
+Join the community: [Discord](https://discord.gg/XwevdMEvaV) – your entry point for discussions, updates, and early access.
 
 ---
 
-## How to Navigate
+## Projects
 
-1. Each project will have its own repository with setup instructions and contribution guidelines.  
-2. Check back soon as we roll out the remaining repos!
+### Aurora Cloud *(Priority Development)*
+An all-in-one cloud platform combining database, backend services, and link management, powered by the Aurora SDK. Think Supabase, Firebase, and Linktree in one seamless stack.
+
+### The Shine Mobile *(Live)*
+A full-stack automotive detailing platform: marketing site, online booking, analytics, and operations dashboard. Includes **Alexia**, the MCP-based AI system powered by Anthropic’s Claude models.
+
+### Fitly
+A gamified fitness application focused on engagement, progression, and habit formation.
+
+### Aurora Chat *(Coming Soon)*
+A modular conversational AI platform built for extensibility and multi-surface deployment.
+
+### Aurora Drive *(Live)*
+Secure, cloud-style storage with native AI integration.
+
+### HSE-Logistics
+A TMS (transportation management system) for trucking operations across the USA, designed for truckers and logistics managers.
+
+### Aurora Quartz SDK
+A developer SDK for building and orchestrating agent-driven workflows. Currently in reinforcement learning development for adaptive behavior.
+
+### Quartz-01-Instruct *(Reinforcement Learning Stage)*
+The first model in the Quartz family — compact and specialized for following tool-use instructions accurately and efficiently within embedded workflows.
+
+### Obsidian CLI *(Open Source)*
+Command-line productivity and automation assistant.  
+[GitHub Repository](https://github.com/AuroraDeveloperOps/obsidian-cli)
 
 ---
 
-### Need Help?
+## How to Engage
 
-If you’re new here, start with **Obsidian CLI** to explore our workflow tools while other projects are being released.
+- Track project updates and roadmaps  
+- Collaborate on internal tooling and open-source initiatives  
+- Participate in early access programs and testing  
+- Join discussions and support via [Discord](https://discord.gg/XwevdMEvaV)
 
 ---
 
-© 2025 Aurora Foundation / Aurora Labs
+Aurora Labs – Production SaaS. Open-source tools. AI-driven platforms.
